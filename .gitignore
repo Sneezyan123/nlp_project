@@ -13,3 +13,4 @@ Thumbs.db
 /data/*.gz
 /data/*.pdf
 /data/*.part
+/results/experiments/*_masked.csv.gz
